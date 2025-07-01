@@ -37,13 +37,13 @@ This script automates the setup of a secure, performance-optimized WordPress env
 ## 🚀 Getting Started
 
 ### Step 1: Upload the script to your server:
-scp setup_wordpress_server_commented.sh youruser@yourserver:/tmp
+scp setup-wordpress-server.sh youruser@yourserver:/tmp
 
 ### Step 2: Upload the script to your server:
 ssh youruser@yourserver
 cd /tmp
-chmod +x setup_wordpress_server_commented.sh
-sudo ./setup_wordpress_server_commented.sh
+chmod +x setup-wordpress-server.sh
+sudo ./setup-wordpress-server.sh
 
 ---
 
