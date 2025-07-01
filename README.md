@@ -1,6 +1,8 @@
 # 🔐 WordPress Apache Server Hardening Script
 
-This script automates the setup of a secure, performance-optimized WordPress environment on a fresh or existing Linux server. It detects the OS (Ubuntu/Debian or CentOS/RHEL-based), installs Apache, PHP, MySQL/MariaDB, and WordPress, and applies essential best practices for security, reliability, and performance.
+This script automates the setup of a secure, performance-optimized WordPress environment on a fresh or existing Linux server - helping save time and reduce manual errors during the launch process.
+
+It detects the OS (Ubuntu/Debian or CentOS/RHEL-based), installs Apache, PHP, MySQL/MariaDB, and WordPress, and applies essential best practices for security, reliability, and performance.
 
 ---
 
